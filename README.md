@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeman&fontSize=90)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={qkrwoaks}&show_icons=true&theme={theme})](https://github.com/{qkrwoaks}/github-readme-stats)
