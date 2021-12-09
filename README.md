@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeman&fontSize=90)
 [![Jaeman's github stats](https://github-readme-stats.vercel.app/api?username=qkrwoaks&show_icons=true&theme=dark)](https://github.com/qkrwoaks/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qkrwoaks5327)](https://solved.ac/qkrwoaks5327)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwoaks5327)](https://solved.ac/qkrwoaks5327)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrwoaks5327)](https://solved.ac/qkrwoaks5327)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrwoaks&count_bg=%23D50000&title_bg=%231C00BD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
