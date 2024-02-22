@@ -1,21 +1,32 @@
-### Hi there 👋
+<p align = "center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=HELLO&desc=I'm%20JaeMan&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling"/>
+</p>
 
-<!--
-**qkrwoaks/qkrwoaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+<Strong>✉Email✉</Strong><br>jaeman.official@gmail.com<br>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+  <Strong>👋About me.</Strong><br>
+  안녕하세요, 유니티 클라이언트 개발자 박재만입니다.<br>
+  주어진 일에 최선을 다하며, 지속적인 학습과 성장을 통해<br>
+  뛰어난 개발자로 성장하는 것을 목표로 하고 있습니다.<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeman&fontSize=90)
-[![Jaeman's github stats](https://github-readme-stats.vercel.app/api?username=qkrwoaks&show_icons=true&theme=dark)](https://github.com/qkrwoaks/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwoaks5327)](https://solved.ac/qkrwoaks5327)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwoaks&langs_count=10&layout=compact&theme=dark)](https://github.com/qkrwoaks/qkrwoaks)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrwoaks&count_bg=%23D50000&title_bg=%231C00BD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<p align="center">
+    <Strong>🛠Skill🛠</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"><br>
+</p><br>
+
+<br>
+<div align=center>
+    
+![qkrwoaks's github stats](https://github-readme-stats.vercel.app/api?username=qkrwoaks&show_icons=true)
+</div>
